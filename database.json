@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1712000000_1234",
+        "nombre": "Juan",
+        "apellido": "Pérez García",
+        "correo": "juan.perez@email.com",
+        "carnet": "12345678"
+    },
+    {
+        "id": "1712000001_5678",
+        "nombre": "María",
+        "apellido": "López Hernández",
+        "correo": "maria.lopez@email.com",
+        "carnet": "87654321"
+    },
+    {
+        "id": "1712000002_9012",
+        "nombre": "Carlos",
+        "apellido": "Rodríguez Martínez",
+        "correo": "carlos.rodriguez@email.com",
+        "carnet": "11223344"
+    }
+]
